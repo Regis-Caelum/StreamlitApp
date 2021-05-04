@@ -1,4 +1,4 @@
-mkdir -p ~/.streamlit/echo "\
+sudo mkdir -p ~/.streamlit/echo "\
 [server]\n\
 headless = true\n\
 port = $PORT\n\
