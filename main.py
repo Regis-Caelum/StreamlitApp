@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 
 import numpy as np
 
-st.title("Streamlit example")
+st.title("Classifier Visualize")
 
 st.write("""
 # Explore different Classifier
